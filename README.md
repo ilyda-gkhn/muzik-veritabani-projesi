@@ -22,9 +22,10 @@ Proje kapsamında veritabanı yapısı diyagram ile modellenmiş; sanatçı, alb
 ## Proje Dosyaları
 
 - `index.html` — Müzik platformunun ana sayfası
-- `album_detail_b.html` — Albüm detay sayfası
-- `müzikveritabanı.html` — Müzik veritabanı arayüzü
+- `album-detail.html` — Albüm detay sayfası
+- `music-database.html` — Müzik veritabanı arayüzü
 - `database-diagram.html` — Veritabanı diyagramı
+
 
 ## Projenin Amacı
 
