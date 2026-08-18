@@ -24,7 +24,7 @@ Proje kapsamında veritabanı yapısı diyagram ile modellenmiş; sanatçı, alb
 - `index.html` — Müzik platformunun ana sayfası
 - `album_detail_b.html` — Albüm detay sayfası
 - `müzikveritabanı.html` — Müzik veritabanı arayüzü
-- `Başlıksız Diyagram.drawio.html` — Veritabanı diyagramı
+- `database-diagram.html` — Veritabanı diyagramı
 
 ## Projenin Amacı
 
