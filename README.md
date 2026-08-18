@@ -30,3 +30,9 @@ Proje kapsamında veritabanı yapısı diyagram ile modellenmiş; sanatçı, alb
 ## Projenin Amacı
 
 Bu proje, Veritabanı Sistemleri dersi kapsamında veritabanı modelleme yaklaşımını web arayüzü tasarımıyla birleştirmek amacıyla hazırlanmıştır.
+
+## Canlı Demo
+
+Projenin GitHub Pages üzerinden yayınlanan sürümüne aşağıdaki bağlantıdan ulaşabilirsiniz:
+
+[Canlı Projeyi Görüntüle](https://ilyda-gkhn.github.io/muzik-veritabani-projesi/)
