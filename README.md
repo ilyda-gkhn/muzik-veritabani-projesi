@@ -36,3 +36,24 @@ Bu proje, Veritabanı Sistemleri dersi kapsamında veritabanı modelleme yaklaş
 Projenin GitHub Pages üzerinden yayınlanan sürümüne aşağıdaki bağlantıdan ulaşabilirsiniz:
 
 [Canlı Projeyi Görüntüle](https://ilyda-gkhn.github.io/muzik-veritabani-projesi/)
+
+## SQL Server veritabanı
+
+Projenin ilişkisel veritabanı yapısı [`music-platform-database.sql`](music-platform-database.sql) dosyasında yer almaktadır.
+
+SQL betiği aşağıdaki yapıları içerir:
+
+- Türler, sanatçılar, kullanıcılar, albümler ve şarkılar
+- Kullanıcı çalma listeleri ve liste-şarkı ilişkileri
+- Sanatçı-şarkı, kullanıcı-dinleme ve kullanıcı-takip ilişkileri
+- 10 tablo ve tablolar arasındaki yabancı anahtar bağlantıları
+- Birincil anahtar, benzersizlik ve veri doğrulama kısıtları
+- Örnek veriler ve ilişkileri gösteren örnek sorgu
+
+### Çalıştırma
+
+1. Microsoft SQL Server Management Studio'yu açın.
+2. `music-platform-database.sql` dosyasını çalıştırın.
+3. Betik `MuzikPlatformuDB` veritabanını, tabloları ve örnek verileri oluşturacaktır.
+
+> Güvenlik: Betik mevcut bir veritabanını silmez. `MuzikPlatformuDB` zaten varsa veri kaybını önlemek için işlemi durdurur.
